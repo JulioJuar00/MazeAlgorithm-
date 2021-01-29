@@ -1,3 +1,3 @@
 # MazeAlgorithm-
 Allows users to visualize their algorithms in a matrix.  
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://i.imgur.com/WyWpTWo.gif)
